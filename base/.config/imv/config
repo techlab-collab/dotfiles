@@ -1,2 +1,0 @@
-[binds]
-<Delete> = exec rm "$imv_current_file"; close
